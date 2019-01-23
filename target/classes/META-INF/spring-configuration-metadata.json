@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.spring4all.constant.SecuritySettings",
+      "name": "qiyun.security.setting",
+      "type": "com.spring4all.constant.SecuritySettings"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.spring4all.constant.SecuritySettings",
+      "name": "qiyun.security.setting.permitall",
+      "description": "游客模式，被允许访问的URL",
+      "type": "java.lang.String"
+    }
+  ]
+}
